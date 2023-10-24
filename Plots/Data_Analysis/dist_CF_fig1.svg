@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="708.435313pt"
+   height="420.323437pt"
+   viewBox="0 0 708.435313 420.323437"
+   version="1.1"
+   id="svg246"
+   sodipodi:docname="dist_CF_fig1.svg"
+   inkscape:version="1.2-alpha1 (b6a15bbbed, 2022-02-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview248"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="1.0118987"
+     inkscape:cx="482.26171"
+     inkscape:cy="313.27246"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg246" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>2023-10-21T15:59:12.297498</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Matplotlib v3.7.2, https://matplotlib.org/</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <style
+       type="text/css"
+       id="style4">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="ArialMT-73"
+       d="m 197,991 556,87 q 47,-334 261,-512 214,-178 599,-178 387,0 574,157 188,158 188,371 0,190 -166,300 -115,75 -575,190 -618,157 -857,271 -239,114 -363,315 -123,202 -123,446 0,221 101,410 102,190 277,315 131,96 357,163 227,68 487,68 390,0 685,-113 296,-112 436,-305 141,-192 194,-513 l -550,-75 q -37,256 -217,399 -180,144 -508,144 -387,0 -553,-128 -166,-128 -166,-300 0,-109 69,-197 69,-90 216,-150 84,-31 497,-143 597,-160 832,-262 236,-101 370,-295 135,-193 135,-481 0,-281 -164,-530 Q 2625,197 2315,61 2006,-75 1616,-75 969,-75 630,194 291,463 197,991 Z"
+       transform="scale(0.015625)"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
+  </defs>
+  <path
+     d="m 55.246676,109.28847 6.214417,-10.012298 6.214417,-9.633434 6.214417,-9.188994 6.214417,-8.68038 6.214417,-8.109735 6.214417,-7.479932 6.214416,-6.794561 6.214416,-6.057901 6.21442,-5.274871 6.21442,-4.45098 6.21441,-3.59227 6.21442,-2.705228 6.21442,-1.796721 6.21441,-0.873892 6.21442,0.05592 6.21442,0.985281 6.21441,1.906773 6.21442,2.813075 6.21442,3.697069 6.21441,4.551931 6.21442,5.371222 6.21442,6.148961 6.21441,6.879707 6.21442,7.558613 6.21442,8.181486 6.21441,8.744816 6.21442,9.245817 6.21442,9.682436 6.21442,10.05337 6.21441,10.35803 6.21442,10.59654 6.21442,10.76976 6.21441,10.87912 6.21442,10.92669 6.21442,10.91512 6.21441,10.84745 6.21442,10.72725 6.21442,10.55836 6.21441,10.34495 6.21442,10.09138 6.21442,9.80216 6.21442,9.48186 6.21441,9.1351 6.21442,8.76641 6.21442,8.38027 6.21441,7.98092 6.21442,7.57249 6.21442,7.15886 6.21441,6.7436 6.21442,6.33004 6.21442,5.92118 6.21442,5.51973 6.21441,5.12805 6.21442,4.74817 6.21441,4.38186 6.21442,4.03051 6.21442,3.69526 6.21442,3.37696 6.21441,3.07619 6.21442,2.7933 6.21442,2.52843 6.21441,2.28148 6.21442,2.05226 6.21442,1.84033 6.21441,1.64523 6.21442,1.46628 6.21442,1.30283 6.21441,1.15408 6.21442,1.01924 6.21442,0.89743 6.21442,0.78783 6.21441,0.68954 6.21442,0.60172 6.21442,0.52353 6.21441,0.45417 6.21442,0.39282 6.21442,0.33877 6.21441,0.29131 6.21442,0.24976 6.21442,0.21351 6.21442,0.182 6.21441,0.15469 6.21442,0.1311 6.21441,0.11078 6.21442,0.0934 6.21442,0.0784 6.21442,0.0657 6.21441,0.0549 6.21442,0.0457 6.21442,0.038 6.21441,0.0315 6.21442,0.026 6.21442,0.0214 6.21441,0.0176 6.21442,0.0144 6.21442,0.0118 6.21441,0.01 6.21442,0.008 6.21442,0.006"
+     clip-path="url(#pe6143d95b9)"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path174"
+     transform="translate(0,15)" />
+  <g
+     id="line2d_16"
+     transform="matrix(2.4823618,0,0,0.9149889,-213.8046,33.224041)"
+     style="stroke-width:0.649946;stroke-miterlimit:4;stroke-dasharray:none;stroke:#999999">
+    <path
+       d="M 144.9824,390.82 V 7.2"
+       clip-path="url(#pe6143d95b9)"
+       style="fill:none;stroke:#999999;stroke-width:0.649946;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path177" />
+  </g>
+  <defs
+     id="defs244">
+    <clipPath
+       id="pe6143d95b9">
+      <rect
+         x="24.485312"
+         y="7.2"
+         width="676.75"
+         height="383.62"
+         id="rect241" />
+    </clipPath>
+  </defs>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:700;font-size:14px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.835408;stroke-linecap:butt;stroke-linejoin:round"
+     x="-261.42197"
+     y="144.87001"
+     id="text2966"
+     transform="rotate(-88.116003)"><tspan
+       sodipodi:role="line"
+       x="-261.42197"
+       y="144.87001"
+       id="tspan2964"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.835408">Mean CF = 4.13</tspan></text>
+</svg>
